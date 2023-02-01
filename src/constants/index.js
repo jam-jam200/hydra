@@ -94,3 +94,48 @@ export const socials = [
     url: "/pinterest.svg",
   },
 ];
+
+export const footerLinks = [
+  {
+    title: "About",
+    links: [
+      {
+        name: "ABOUT",
+        id: "#about",
+      },
+      {
+        name: "SERVICES",
+        id: "#services",
+      },
+      {
+        name: "TECHNOLOGIRES",
+        id: "#technology",
+      },
+      {
+        name: "HOW TO",
+        id: "#howto",
+      },
+      {
+        name: "JOIN HYDRA",
+        id: "#joinhydra",
+      },
+    ],
+  },
+  {
+    title: "FAQ",
+    links: [
+      {
+        name: "F.A.Q",
+      },
+      {
+        name: "SITEMAP",
+      },
+      {
+        name: "CONDITIONS",
+      },
+      {
+        name: "LICENSES",
+      },
+    ],
+  },
+];
