@@ -21,21 +21,49 @@ export const contact = [
 
 export const services = [
   {
-    id: "location",
-    imgUrl: "/location.png",
-    title: "Pay Us a Visit",
+    id: "simulation",
+    imgUrl: "/simulation.png",
+    title: "SIMULATION",
     subtitle: "Union St, Seattle, WA 98101, United States",
   },
   {
-    id: "call",
-    imgUrl: "/phone.png",
-    title: "Give Us a Call",
-    subtitle: "(110) 1111-1010",
+    id: "education",
+    imgUrl: "/education.png",
+    title: "EDUCATION",
+    subtitle:
+      "Vitae sapien pellentesque habitant morbinunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
   },
   {
-    id: "message",
-    imgUrl: "/mail.png",
-    title: "Send Us a Message",
-    subtitle: "Contact@HydraVTech.com",
+    id: "selfcare",
+    imgUrl: "/self-care.png",
+    title: "SELF-CARE",
+    subtitle:
+      "Vitae sapien pellentesque habitant morbinunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
+  },
+  {
+    id: "outdoor",
+    imgUrl: "/outdoor.png",
+    title: "OUTDOOR",
+    subtitle:
+      "Vitae sapien pellentesque habitant morbinunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
+  },
+];
+
+export const brands = [
+  {
+    id: "unreal",
+    imgUrl: "/unreal.png",
+  },
+  {
+    id: "unity",
+    imgUrl: "/unity.png",
+  },
+  {
+    id: "oculus",
+    imgUrl: "/oculus.png",
+  },
+  {
+    id: "vive",
+    imgUrl: "/vive.png",
   },
 ];
