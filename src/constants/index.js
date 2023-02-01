@@ -68,6 +68,13 @@ export const brands = [
   },
 ];
 
+export const startingFeatures = [
+  "3D Conception & Design",
+  "Interaction Design",
+  "VR World User Testing",
+  "Hydra VR Deploy",
+];
+
 export const socials = [
   {
     name: "facebook",
