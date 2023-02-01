@@ -67,3 +67,30 @@ export const brands = [
     imgUrl: "/vive.png",
   },
 ];
+
+export const socials = [
+  {
+    name: "facebook",
+    url: "/facebook.svg",
+  },
+  {
+    name: "twitter",
+    url: "/twitter.svg",
+  },
+  {
+    name: "linkedin",
+    url: "/linkedin.svg",
+  },
+  {
+    name: "youtube",
+    url: "/youtube.svg",
+  },
+  {
+    name: "instagram",
+    url: "/instagram.svg",
+  },
+  {
+    name: "pinterest",
+    url: "/pinterest.svg",
+  },
+];
