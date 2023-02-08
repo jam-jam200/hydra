@@ -4,9 +4,9 @@ function App() {
   
 
   return (
-    <div className="app">
-     blev
-    </div>
+   
+     <img src="/hydraDesktop.png" alt="hydrabg" >
+    </img>
   )
 }
 
