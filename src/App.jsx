@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
-      <img src="/hydraDesktop.png" alt="hydrabg" />
+      <h1>blue</h1>
     </div>
   );
 }
