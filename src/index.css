@@ -1,5 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
 :root {
   background-image: url(./hydraDesktop.png);
   height: 100%;
   width: 100%;
+
+  --font-base: "DM Sans", sans-serif;
+
+  --primary-color: #ecdbf6;
+  --secondary-color: #a12cf5;
+  --black-color: #030303;
+  --lightGray-color: #e4e4e4;
+  --gray-color: #48515f;
+  --brown-color: #46364a;
+  --white-color: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
 }
