@@ -4,7 +4,10 @@
   height: 100%;
   width: 100%;
 
-  --font-base: "DM Sans", sans-serif;
+--gradient-text: linear-gradient(91.57deg, #C0B7E8 -1.02%, #8176AF 36.25%);
+
+  --font-base: "Montserrat", sans-serif;
+  /* money money */
 
   --primary-color: #ecdbf6;
   --secondary-color: #a12cf5;
